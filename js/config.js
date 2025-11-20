@@ -5,6 +5,7 @@ window._config = {
         region: 'us-east-1'
     },
     api: {
-        invokeUrl: '' 
+        invokeUrl: 'https://n1h3ythuqd.execute-api.us-east-1.amazonaws.com/prod' 
     }
 };
+
